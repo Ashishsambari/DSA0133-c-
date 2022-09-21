@@ -14,3 +14,5 @@ avg of positive and negative.cpp
 composite numbers between two numbers.cpp
 sorting list of names.cpp
 sum of n digits.cpp
+day2
+area of circle,triangle,square,rectangle.cpp
